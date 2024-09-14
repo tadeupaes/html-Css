@@ -1,5 +1,6 @@
 # HTML E CSS
-# CURSO DE HTML E CSS - Treinamento do Curso Tecnico em Informatica 
+# CURSO DE HTML E CSS 
+  Treinamento do Curso Tecnico em Informatica 
 
 ### História do HTML e Suas Versões
 
