@@ -104,16 +104,27 @@ Embora muitas pessoas falem sobre **CSS4**, tecnicamente, não existe uma versã
 ## Conteudo:
 
 1 - Fundamentos Html 5
+
   -Criando nova Primeira pagina HTML - Conhecendo a tag 
+
   -Elementos e atributos
+  
   -Criando Titulo
+  
   -Parágrafos
+  
   -Tag Style
+  
   -Formatação de Texto
+  
   -Idle - Editores
+  
   -Criando Links
+  
   -Imagens
+  
   -Favicons
+  
   -Iniciando o entendimento do CSS
 
 
